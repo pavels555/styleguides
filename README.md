@@ -1,4 +1,4 @@
 # Style Guides
 
-  - [React](react.md)
   - [JavaScript](javascript.md)
+  - [React](react.md)
